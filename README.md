@@ -8,10 +8,10 @@ A rogue DHCP server with a faster link speed than an official DHCP server, serve
 
 ## Goals
 
-- [ ] Demonstrate DHCP attack
+- [x] Demonstrate DHCP attack
 
-- [ ] Implement DHCP Snooping
+- [x] Implement DHCP Snooping
 
-- [ ] Detect rogue DNS servers
+- [x] Detect rogue DNS servers
 
-- [ ] Alert and block when rogue DHCP transactions / DNS servers
+- [x] Alert and block when rogue DHCP transactions / DNS servers
